@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fariha Afrin Tamanna</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fariha65&label=Profile%20views&color=0e75b6&style=flat" alt="fariha65" /> </p>
+<img align="right" alt="Coding" width="400" src="./e726c74ac081eed50feee1433d12c998.gif">
 
 - 🔭 I’m currently working on **HTML,CSS**
 
