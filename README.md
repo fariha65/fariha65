@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fariha Afrin Tamanna</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="./e726c74ac081eed50feee1433d12c998.gif">
 
