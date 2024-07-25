@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="./e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on **HTML,CSS**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C,C++,Open GL(C++),**
+- 💬 Ask me about **C,C++,Open GL(C++),Java,Python**
 
 - 📫 How to reach me **tfarihaafrin@gmail.com**
 
