@@ -29,13 +29,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">SQA Skills:</h3>
-<ul>
-<li>Manual Testing (Test Case Design, Execution, Bug Reporting)</li>
-<li>API Testing using Postman</li>
-<li>Basic Automation Testing (Playwright)</li>
-<li>Bug Tracking (Jira)</li>
-<li>SQL for Data Validation</li>
-<li>Understanding of SDLC & STLC</li>
-<li>Basic Performance Testing (JMeter, BlazeMeter)</li>
+
 </ul>
